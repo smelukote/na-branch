@@ -1,0 +1,3 @@
+[submodule "latam-submodules"]
+	path = latam-submodules
+	url = https://github.com/smelukote/latam-branch.git
